@@ -71,13 +71,12 @@
 
 ### Day 9: May 30, Thursday
 
-**Today's Progress**: Learned of Class Objects and Instance Objects through the Class segment of the Python 2.7 tutorials. I also created a quiz project with a desktop app to put newfound skills into practice. 
+**Today's Progress**: Learned of Class Objects and Instance Objects through the Class segment of the Python 2.7 tutorials.
 
-**Thoughts** I felt accomplished after working through this project and a few minor compatibility challenges with the .txt file and the script. It is a project I had come across online and was curious to learn more of. I am glad I took time to complete this, as I learned of desktop apps and quiz applications holistically, in terms of the different ways one can go about creating one. 
+**Thoughts** I felt accomplished after working through these tutorials. Object oriented programming and the conceptual piece of it has always been extremely interesting and I am curious to learn more. Glad I took time to complete this, as I learned of desktop apps and quiz applications holistically, in terms of the different ways one can go about creating one. 
 
 **Link(s) to work:**
-1. [Class Objects Tutorial](https://docs.python.org/2/tutorial/classes.html#class-objects)
-2. [Quiz Application](Will put thing in here)
+[Class Objects Tutorial](https://docs.python.org/2/tutorial/classes.html#class-objects)
 
 
 ### Day 10: May 31, Friday
