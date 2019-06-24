@@ -260,7 +260,7 @@
 
 **Thoughts** Attempted to implement the new motion, needs work. 
 
-**Link(s) to work**[Baxter Collision Detection](https://github.com/bbdancer365/100-days-of-code/edit/master/baxter_collision.py)
+**Link(s) to work: **[Baxter Collision Detection](https://github.com/bbdancer365/100-days-of-code/edit/master/baxter_collision.py)
 
 
 ### Day 30: June 20, Thursday
@@ -287,7 +287,7 @@
 
 **Thoughts** Looking back, I would have struggled to resolve the issues that I have been facing in the amount of time that I can easily resolve them now. I feel proud of how much I have improved over the past 32 days. 
 
-**Link(s) to work**[Baxter Collision Detection](https://github.com/bbdancer365/100-days-of-code/edit/master/baxter_collision.py)
+**Link(s) to work:** [Baxter Collision Detection](https://github.com/bbdancer365/100-days-of-code/edit/master/baxter_collision.py)
 
 
 ### Day 33: June 23, Sunday
@@ -297,6 +297,6 @@
 
 **Thoughts:** I believe I have grown tremendously since the start of the challenge and cannot wait to continue my journey. 
 
-**Link to work:**[Baxter Collision Detection](https://github.com/bbdancer365/100-days-of-code/edit/master/baxter_collision.py)
+**Link to work:** [Baxter Collision Detection](https://github.com/bbdancer365/100-days-of-code/edit/master/baxter_collision.py)
 
 
