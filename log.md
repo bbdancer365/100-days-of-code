@@ -23,7 +23,7 @@
 
 **Thoughts** Although Python syntax is relatively new to me, I am excited to say that my understanding of proper syntax and appealing formatting has increased tremendously, in particular thanks to PEP 8 and coding style documentation. 
 
-**Link(s) to work**: [Tuples Tutorials](https://docs.python.org/2/tutorial/datastructures.html#tuples-and-sequences)
+**Link(s) to work**[Tuples Tutorials](https://docs.python.org/2/tutorial/datastructures.html#tuples-and-sequences)
 
 
 ### Day 4: May 25, 2019, Saturday
@@ -40,7 +40,7 @@
 
 **Thoughts**: I made a lot of connections today surrounding the importance of having scripts outside of the Python Interpreter. 
 
-**Link(s) to work**: [Looping-Techniques Tutorials](https://docs.python.org/2/tutorial/datastructures.html#looping-techniques)
+**Link(s) to work** [Looping-Techniques Tutorials](https://docs.python.org/2/tutorial/datastructures.html#looping-techniques)
 
 
 ### Day 6: May 27, Monday
@@ -124,7 +124,7 @@
 **Thoughts**: I sincerely appreciate the thorough documentation that exists for this particular project. It has simply broken down resources that I can use in order to fulfill my objectives in the collision detection and path following methods. 
 
 
-**Link(s) to work** [Baxter Collision Detection](will be here)
+**Link(s) to work** [Baxter Collision Detection](https://github.com/bbdancer365/100-days-of-code/edit/master/baxter_collision.py)
 
 
 ### Day 15: June 5, Wednesday
@@ -133,7 +133,7 @@
 
 **Thoughts:** I worked through challenges with the VM and sincerely enjoyed overcoming all of these challenges on my own. 
 
-**Link to work:**  [Baxter Collision Detection](will be here)
+**Link to work:**  [Baxter Collision Detection](https://github.com/bbdancer365/100-days-of-code/edit/master/baxter_collision.py)
 
 
 ### Day 16: June 6, Thursday
@@ -142,7 +142,7 @@
 
 **Thoughts**: Having a better understanding of various concepts, I now understand that my old project will not meet my objectives in its current state. Therefore, I decided to write a new script for the project. 
 
-**Link(s) to work**: [Baxter Collision Detection](will be here)
+**Link(s) to work**: [Baxter Collision Detection](https://github.com/bbdancer365/100-days-of-code/edit/master/baxter_collision.py)
 
 
 ### Day 17: June 7, Friday
@@ -151,7 +151,7 @@
 
 **Thoughts** I feel as though I have a clear idea of the following steps I have to take in order to write my baxter collision detection program. 
 
-**Link(s) to work**  [Baxter Collision Detection](will be here)
+**Link(s) to work**  [Baxter Collision Detection](https://github.com/bbdancer365/100-days-of-code/edit/master/baxter_collision.py)
 
 
 ### Day 18: June 8, Saturday
@@ -160,7 +160,7 @@
 
 **Thoughts:** The main.py program allowed me to test my environment and allowed me to ensure that all was set up according to plan. Ie. the joint_trajectory_action_server could obtain the join_angles of the robot’s arm at any given time throughout moving, etc. 
 
-**Link to work:**  [Baxter Collision Detection](will be here)
+**Link to work:**  [Baxter Collision Detection](https://github.com/bbdancer365/100-days-of-code/edit/master/baxter_collision.py)
 
 
 ### Day 19: June 9, Sunday
@@ -169,7 +169,7 @@
 
 **Thoughts**: Learned that it is not always best to use items that are taller than they are wide as they may fall over due to gravity. 
 
-**Link(s) to work**:  [Baxter Collision Detection](will be here)
+**Link(s) to work**:  [Baxter Collision Detection](https://github.com/bbdancer365/100-days-of-code/edit/master/baxter_collision.py)
 
 
 ### Day 20: June 10, Monday
@@ -178,7 +178,7 @@
 
 **Thoughts** After troubleshooting the issue, it turned out to be that the points should have been separated by commas rather than plus signs in a trajectory list. I felt satisfied to have overcome this particular challenge as it was a rather time consuming one. 
 
-**Link(s) to work** [Baxter Collision Detection](will be here)
+**Link(s) to work** [Baxter Collision Detection](https://github.com/bbdancer365/100-days-of-code/edit/master/baxter_collision.py)
 
 
 ### Day 21: June 11, Tuesday
@@ -187,7 +187,7 @@
 
 **Thoughts:** I believe there is a way in which I can test for valid joint positions more quickly and in a more efficient way than simply guessing and checking whether joint position values are or are not valid positions. 
 
-**Link to work:**  [Baxter Collision Detection](will be here)
+**Link to work:**  [Baxter Collision Detection](https://github.com/bbdancer365/100-days-of-code/edit/master/baxter_collision.py)
 
 
 ### Day 22: June 12, Wednesday
@@ -196,7 +196,7 @@
 
 **Thoughts**: Worked through different ways to approach the problem. Debating whether to organize the position values by row or column would be simpler. 
 
-**Link(s) to work**:  [Baxter Collision Detection](will be here)
+**Link(s) to work**:  [Baxter Collision Detection](https://github.com/bbdancer365/100-days-of-code/edit/master/baxter_collision.py)
 
 
 ### Day 23: June 13, Thursday
@@ -205,7 +205,7 @@
 
 **Thoughts**: Satisfied with the results of the joint_positions. Will configure trajectory and identify 3 trajectory points after finalizing the collision detection method. 
 
-**Link(s) to work**: [Baxter Collision Detection](will be here)
+**Link(s) to work**: [Baxter Collision Detection](https://github.com/bbdancer365/100-days-of-code/edit/master/baxter_collision.py)
 
 
 ### Day 24: June 14, Friday
@@ -214,7 +214,7 @@
 
 **Thoughts:** After attempting to implement checkCollision, I found that there was a better way to check for collision that is easily compatible with the current trajectory following method. 
 
-**Link to work:** [Baxter Collision Detection](will be here)
+**Link to work:** [Baxter Collision Detection](https://github.com/bbdancer365/100-days-of-code/edit/master/baxter_collision.py)
 
 
 ### Day 25: June 15, Saturday
@@ -223,7 +223,7 @@
 
 **Thoughts**: I believe it is the fact that my VM is using more CPUs than what my computer’s host possesses that is causing the problem which can be solved by transferring the VM to another computer. 
 
-**Link(s) to work**: [Baxter Collision Detection](will be here)
+**Link(s) to work**: [Baxter Collision Detection](https://github.com/bbdancer365/100-days-of-code/edit/master/baxter_collision.py)
 
 
 ### Day 26: June 16, Sunday
@@ -232,7 +232,7 @@
 
 **Thoughts**: I learned just how much faster ethernet functions than wifi after downloading an .ova file over wifi and over ethernet. 
 
-**Link(s) to work**: [Baxter Collision Detection](will be here)
+**Link(s) to work**: [Baxter Collision Detection](https://github.com/bbdancer365/100-days-of-code/edit/master/baxter_collision.py)
 
 
 
@@ -242,7 +242,7 @@
 
 **Thoughts:**: I realized that many sharpened Python skills are being put to good use throughout completing the projects. It is much easier to work through problems and pinpoint which bits don’t make any sense. 
 
-**Link to work:** [Baxter Collision Detection](will be here)
+**Link to work:** [Baxter Collision Detection](https://github.com/bbdancer365/100-days-of-code/edit/master/baxter_collision.py)
 
 
 ### Day 28: June 18, Tuesday
@@ -251,7 +251,7 @@
 
 **Thoughts**: I learned that you should never eliminate code that functions properly. I had to go back and rewrite the previously functioning program. I also learned the value of version control. 
 
-**Link(s) to work**: [Baxter Collision Detection](will be here)
+**Link(s) to work**: [Baxter Collision Detection](https://github.com/bbdancer365/100-days-of-code/edit/master/baxter_collision.py)
 
 
 ### Day 29: June 19, Wednesday
@@ -260,7 +260,7 @@
 
 **Thoughts** Attempted to implement the new motion, needs work. 
 
-**Link(s) to work**[Baxter Collision Detection](will be here)
+**Link(s) to work**[Baxter Collision Detection](https://github.com/bbdancer365/100-days-of-code/edit/master/baxter_collision.py)
 
 
 ### Day 30: June 20, Thursday
@@ -269,7 +269,7 @@
 
 **Thoughts:** Worked to implement collision detection first, in order to modify trajectory and move arm to waypoint (joint_position that is higher than the blocks- or the original midpoint plus a couple of radians in the z direction)
 
-**Link to work:** [Baxter Collision Detection](will be here)
+**Link to work:** [Baxter Collision Detection](https://github.com/bbdancer365/100-days-of-code/edit/master/baxter_collision.py)
 
 
 ### Day 31: June 21, Friday
@@ -278,7 +278,7 @@
 
 **Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
-**Link(s) to work**: [Baxter Collision Detection](will be here)
+**Link(s) to work**: [Baxter Collision Detection](https://github.com/bbdancer365/100-days-of-code/edit/master/baxter_collision.py)
 
 
 ### Day 32: June 22, Saturday
@@ -287,7 +287,7 @@
 
 **Thoughts** Looking back, I would have struggled to resolve the issues that I have been facing in the amount of time that I can easily resolve them now. I feel proud of how much I have improved over the past 32 days. 
 
-**Link(s) to work**[Baxter Collision Detection](will be here)
+**Link(s) to work**[Baxter Collision Detection](https://github.com/bbdancer365/100-days-of-code/edit/master/baxter_collision.py)
 
 
 ### Day 33: June 23, Sunday
@@ -297,6 +297,6 @@
 
 **Thoughts:** I believe I have grown tremendously since the start of the challenge and cannot wait to continue my journey. 
 
-**Link to work:**[Baxter Collision Detection](will be here)
+**Link to work:**[Baxter Collision Detection](https://github.com/bbdancer365/100-days-of-code/edit/master/baxter_collision.py)
 
 
