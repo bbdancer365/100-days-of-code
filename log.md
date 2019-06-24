@@ -298,3 +298,10 @@
 **Link to work:** [Baxter Collision Detection](https://github.com/bbdancer365/100-days-of-code/edit/master/baxter_collision.py)
 
 
+### Day 34: June 24, Monday
+
+**Today's Progress**: Created new method for the new trajectory, where which the current robot_position would move from the 2nd point in the original trajectory to an upper position above the blocks. Following this, the method has it move to the right and then form a new trajectory to the initial endpoint. 
+
+
+
+
