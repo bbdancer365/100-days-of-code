@@ -23,7 +23,7 @@
 
 **Thoughts** Although Python syntax is relatively new to me, I am excited to say that my understanding of proper syntax and appealing formatting has increased tremendously, in particular thanks to PEP 8 and coding style documentation. 
 
-**Link(s) to work**[Tuples Tutorials](https://docs.python.org/2/tutorial/datastructures.html#tuples-and-sequences)
+**Link(s) to work:** [Tuples Tutorials](https://docs.python.org/2/tutorial/datastructures.html#tuples-and-sequences)
 
 
 ### Day 4: May 25, 2019, Saturday
@@ -40,7 +40,7 @@
 
 **Thoughts**: I made a lot of connections today surrounding the importance of having scripts outside of the Python Interpreter. 
 
-**Link(s) to work** [Looping-Techniques Tutorials](https://docs.python.org/2/tutorial/datastructures.html#looping-techniques)
+**Link(s) to work:** [Looping-Techniques Tutorials](https://docs.python.org/2/tutorial/datastructures.html#looping-techniques)
 
 
 ### Day 6: May 27, Monday
@@ -49,8 +49,7 @@
 
 **Thoughts** I realized much of the importance of API’s and how they enable two software programs to communicate with one another. I also had never appreciated the origin of numpy prior to exploring the Python Libraries and the functions within them. 
 
-**Link(s) to work**
-1. [Python Libraries Overview](https://docs.python.org/2/tutorial/stdlib.html)
+**Link(s) to work:** [Python Libraries Overview](https://docs.python.org/2/tutorial/stdlib.html)
 
 ### Day 7: May 28, Tuesday
 
@@ -76,7 +75,7 @@
 
 **Thoughts** I felt accomplished after working through this project and a few minor compatibility challenges with the .txt file and the script. It is a project I had come across online and was curious to learn more of. I am glad I took time to complete this, as I learned of desktop apps and quiz applications holistically, in terms of the different ways one can go about creating one. 
 
-**Link(s) to work**
+**Link(s) to work:**
 1. [Class Objects Tutorial](https://docs.python.org/2/tutorial/classes.html#class-objects)
 2. [Quiz Application](Will put thing in here)
 
