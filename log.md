@@ -62,9 +62,9 @@
 
 ### Day 8: May 29, Wednesday
 
-**Today's Progress**: Returned to Python Tutorials. Learned of dir() and its capabilities. I also learned of packages and how Python searches through the directories on sys.path. Learned of the distinction between RAM and CPUs in a more in depth sort of light. 
+**Today's Progress**: Returned to Python Tutorials. Learned of dir() and its capabilities. I also learned of packages and how Python searches through the directories on sys.path.
 
-**Thoughts**: 
+**Thoughts**: Learned of the distinction between RAM and CPUs in a more in depth sort of light. 
 
 **Link(s) to work**: [Dir() Tutorial](https://docs.python.org/2/tutorial/modules.html#the-dir-function)
 
@@ -86,7 +86,7 @@
 
 **Thoughts:** It was an exhilarating process to try and fulfill as many challenges as possible in a single sitting. Troubleshooting challenges has also become far easier as I become more familiar with the language. 
 
-**Link to work:** [Python Challenges]
+**Link to work:** [Python Challenges](https://github.com/zhiwehu/Python-programming-exercises/commit/22bb9b343f009a1d710117b02f5b278e0761094f)
 
 
 ### Day 11: June 1, Saturday
@@ -95,21 +95,21 @@
 
 **Thoughts** I have realized that any problem can be solved in programming and there is actually an infinite number of ways to go about solving a problem, and through perseverance one can always achieve their objectives in programming!
 
-**Link(s) to work** [Python Challenges]
+**Link(s) to work** [Python Challenges](https://github.com/zhiwehu/Python-programming-exercises/commit/22bb9b343f009a1d710117b02f5b278e0761094f)
 
 
 ### Day 12: June 2, Sunday
 
-**Today's Progress**: I became inspired to pursue a calendar project after observing a problem my mother had with her calendar. Believed that it would be an informative Python Project relevant to an encountered, real world application. 
+**Today's Progress**: I became inspired to pursue additional, more challenging Python Challenges and started working backwards from the bottom of the Python Challenges files. 
 
-**Thoughts:** This program allowed me to realize more of the significance of front-end programming and how the user’s experience sometimes defines legitimacy of a project, based on its ability to fulfill their ideal application of the script. 
+**Thoughts:** These programs allowed me to realize more of the significance of list comprehensions and slicing, how they can be used to overcome challenges and cause a program to function more easily. I also began to play around with these functions in order to see how they could be of use in my Baxter collision detection script.
 
-**Link to work:** [Calendar Project]
+**Link to work:** [Python Challenges](https://github.com/zhiwehu/Python-programming-exercises/commit/22bb9b343f009a1d710117b02f5b278e0761094f)
 
 
 ### Day 13: June 3, Monday
 
-**Today's Progress**: Took a break from projects and decided to return to Python Challenges. I also reviewed the function tutorials in order to increase comprehension of the material. 
+**Today's Progress**: Today I completed additional Python Challenges. I also reviewed the function tutorials in order to increase comprehension of the material. 
 
 **Thoughts**: I learned more of the importance of properly indenting methods in Python in order to ensure that they execute according to their designated purposes. 
 
