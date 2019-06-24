@@ -289,7 +289,7 @@
 
 
 ### Day 33: June 23, Sunday
-##### (delete me or comment me out)
+
 
 **Today's Progress**: Worked on collision avoidance trajectory, attempted to seamlessly mesh all methods.  learned how to properly upload 100 Days of Coding Challenge items to Github repository. 
 
